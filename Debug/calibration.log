@@ -1,0 +1,15 @@
+﻿  calibrationDlg.cpp
+D:\Training\C++\Camera_calibration(MFC)\calibration\calibrationDlg.cpp(272,20): warning C4018: '<': signed/unsigned mismatch
+D:\Training\C++\Camera_calibration(MFC)\calibration\calibrationDlg.cpp(379,32): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Training\C++\Camera_calibration(MFC)\calibration\calibrationDlg.cpp(379,26): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Training\C++\Camera_calibration(MFC)\calibration\calibrationDlg.cpp(444,21): warning C4018: '<': signed/unsigned mismatch
+D:\Training\C++\Camera_calibration(MFC)\calibration\calibrationDlg.cpp(505,7): warning C4101: 'szTemp': unreferenced local variable
+  calibration.vcxproj -> D:\Training\C++\Camera_calibration(MFC)\calibration\Debug\calibration.exe
